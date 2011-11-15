@@ -6,7 +6,7 @@ body {
   background: #000;
 }
 #wrapper {
-font-family: 'Convergence', sans-serif;
+
   width: 920px;
   text-align: left;
   margin-left: auto;
